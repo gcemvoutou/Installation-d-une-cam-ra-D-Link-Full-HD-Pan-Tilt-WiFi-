@@ -51,7 +51,7 @@ Dans le cadre de ce TP, nous allons détailler les étapes d'installation et de 
 | **Ethernet** | ✅ Ultra-stable, latence minimale, haute sécurité. | ❌ Nécessite un câble, moins flexible. |
 | **Wi-Fi** | ✅ Installation rapide, placement libre. | ❌ Sensible aux interférences. |
 
-<img src="camera_modèle.png" width="400">
+<img src="branchements.jpeg" width="400">
 *Photo 2 : Détail du branchement combiné (Alimentation secteur + Câble Ethernet RJ45).*
 
 ---
