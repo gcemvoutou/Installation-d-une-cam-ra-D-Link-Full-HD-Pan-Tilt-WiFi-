@@ -74,7 +74,7 @@ L'application **mydlink** centralise la gestion de la caméra via une interface 
 * **Automatisation :** Programmation de détections de mouvements ou de sons avec envoi de notifications push.
 * **Calendrier :** Consultation des séquences enregistrées sur le Cloud sécurisé ou sur la carte MicroSD locale.
 
-> [!NOTE]
+
 > **Interface de connexion :** Une fois le compte mydlink configuré, l'accès à la caméra est centralisé et sécurisé, permettant une consultation à distance via 4G/5G.
 
 ---
