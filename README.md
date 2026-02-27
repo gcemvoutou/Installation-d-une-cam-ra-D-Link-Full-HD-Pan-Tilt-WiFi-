@@ -2,12 +2,12 @@
 
 ## 📌 Sommaire
 1. [Présentation du Projet](#-présentation-du-projet)
-2. [Matériel et Prérequis](#-matériel-et-prérequis)
-3. [Procédure d'Installation](#-procédure-dinstallation)
+2. [Contenu de la boîte](#-contenu-de-la-boîte)
+3. [Procédure d'Installation](#-procédure-d-installation)
 4. [Analyse des Modes de Connexion](#-analyse-des-modes-de-connexion)
-5. [Interface et Fonctionnalités](#-interface-et-fonctionnalités)
-6. [Bilan et Critique Professionnelle](#-bilan-et-critique-professionnelle)
-7. [Spécialité SISR : Sécurité et Réseau](#-spécialité-sisr--sécurité-et-réseau)
+5. [Interface et gestion Live](#-interface-et-gestion-live)
+6. [Le panneau latéral (Menu)](#-le-panneau-latéral-menu)
+7. [Bilan et Critique Professionnelle](#-bilan-et-critique-professionnelle)
 
 ---
 
@@ -71,10 +71,10 @@ Dans le cadre de ce TP, nous allons détailler les étapes d'installation et de 
 
 Une fois la configuration terminée, on arrive sur la page principale. C'est ici que tout se pilote au quotidien.
 
-<img src="image_c5c34a.png" width="400">
+<img src="caméra_live.png" width="400">
 
 > [!NOTE]
-> **Accueil Live :** Voici l'écran d'accueil une fois la caméra configurée. On voit ici l'accès au direct live pour vérifier que tout fonctionne bien.
+> ***Accueil Live :** Voici l'écran d'accueil une fois la caméra configurée. On voit ici l'accès au direct live pour vérifier que tout fonctionne bien.*
 
 ---
 
@@ -83,6 +83,7 @@ Une fois la configuration terminée, on arrive sur la page principale. C'est ici
 Voici le panneau latéral de l'application **mydlink** qui permet de gérer la "Clara cam". Chaque option a un rôle précis :
 
 <img src="menu_latterale.jpg" width="300" alt="Panneau latéral mydlink">
+<br>
 
 * **Scène :** Permet de créer des profils (Maison, Absent, Sommeil) pour changer le comportement de la caméra en un clic.
 * **Automatisation :** C'est ici qu'on règle les déclenchements automatiques (ex: enregistrer si un mouvement est détecté) *(uniquement premimum)*.
