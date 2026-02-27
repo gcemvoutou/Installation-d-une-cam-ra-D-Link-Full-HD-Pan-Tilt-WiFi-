@@ -41,8 +41,11 @@ Voici à quoi elle ressemble :
 * Un réseau Wi-Fi fonctionnel.
 * Un smartphone avec l'application **mydlink** installée.
 * Un compte utilisateur mydlink créé et configuré.
-* 
-* Interface de connexion une fois compte mydlink configuré.
+  <br>
+  <img src="interface_mydlink.png" width="300" alt="Interface D-Link">
+  > [!NOTE]
+> **Interface de connexion :** Une fois le compte mydlink configuré
+
 
 ### Étapes de mise en service
 1. **Installation physique :** Choix de l'emplacement et branchement de l'alimentation électrique.
@@ -64,4 +67,33 @@ L'analyse comparative des deux modes de configuration disponibles :
 ---
 
 ## 4. Exploration de l'Interface et Fonctionnalités
-L'application
+L'application **mydlink** centralise la gestion de la caméra via une interface intuitive :
+
+* **Flux en direct :** Visualisation immédiate et accès aux contrôles **Pan & Tilt** (joystick virtuel pour orienter l'objectif).
+* **Gestion des Scènes :** Configuration de modes (Maison, Absent, Sommeil) pour activer ou désactiver les alertes en un clic.
+* **Automatisation :** Programmation de détections de mouvements ou de sons avec envoi de notifications push.
+* **Calendrier :** Consultation des séquences enregistrées sur le Cloud sécurisé ou sur la carte MicroSD locale.
+
+> [!NOTE]
+> **Interface de connexion :** Une fois le compte mydlink configuré, l'accès à la caméra est centralisé et sécurisé, permettant une consultation à distance via 4G/5G.
+
+---
+
+## 5. Bilan et Critique Professionnelle
+
+### Points positifs
+L'installation est particulièrement simple grâce au guidage pas à pas de l'application. L'interface est fluide, rendant la surveillance accessible même pour un utilisateur non-technicien.
+
+### Limites techniques identifiées
+1. **Stabilité réseau :** En mode Wi-Fi, la qualité dépend de la portée du signal. Un répéteur peut être nécessaire pour les grandes distances.
+2. **Sécurité :** L'Ethernet est recommandé pour une installation fixe afin d'éviter le risque de brouillage du signal Wi-Fi.
+3. **Usage :** Ce modèle DCS-8525LH est strictement réservé à un usage intérieur .
+
+---
+
+## 6. Configuration Réseau Avancée
+
+### 6.1 Le protocole DHCP
+La caméra a été configurée par défaut en **DHCP** (*Dynamic Host Configuration Protocol*).
+* **Fonctionnement :** Le routeur attribue automatiquement une adresse IP libre à la caméra dès sa connexion.
+* **Identification :** L'adresse IP a été retrouvée en faisant correspondre l'adresse MAC (physique) de l'appareil via la table ARP du réseau.
