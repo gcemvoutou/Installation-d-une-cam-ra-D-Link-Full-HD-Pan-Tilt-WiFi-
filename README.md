@@ -18,8 +18,11 @@
 Dans le cadre de ce TP, nous allons détailler les étapes d'installation et de configuration de l'équipement. Nous réaliserons également une analyse comparative des modes de connexion (Wi-Fi et Ethernet) afin d'identifier leurs limites techniques respectives en termes de stabilité et de sécurité.
 
 <img src="camera_modèle.png" width="400">
+
+<br>
+
 > [!NOTE]
-> La console KVM Dexlan déployée dans la baie informatique de la mairie, permettant l'accès direct aux serveurs.
+> *Modèle D-Link DCS-8525LH sélectionné pour l'installation.*
 ---
 
 ## 🛠️Contenu de la boîte : 
@@ -57,11 +60,25 @@ Dans le cadre de ce TP, nous allons détailler les étapes d'installation et de 
 | **Wi-Fi** | ✅ Installation rapide, placement libre. | ❌ Sensible aux interférences. |
 
 <img src="branchements.jpeg" width="400">
-*Photo 2 : Détail du branchement combiné (Alimentation secteur + Câble Ethernet RJ45).*
+
+<br>
+
+> [!NOTE]
+> *Détail du branchement combiné (Alimentation secteur + Câble Ethernet RJ45).*
+
+---
+## 📱 Interface et gestion Live
+
+Une fois la configuration terminée, on arrive sur la page principale. C'est ici que tout se pilote au quotidien.
+
+<img src="image_c5c34a.png" width="400">
+
+> [!NOTE]
+> **Accueil Live :** Voici l'écran d'accueil une fois la caméra configurée. On voit ici l'accès au direct live pour vérifier que tout fonctionne bien.
 
 ---
 
-## 📱 Interface et Fonctionnalités (Le Menu)
+## ⚙️ Le panneau latéral (Menu)
 
 Voici le panneau latéral de l'application **mydlink** qui permet de gérer la "Clara cam". Chaque option a un rôle précis :
 
