@@ -20,7 +20,7 @@
 ## 1. Présentation du Matériel
 Le matériel utilisé pour cette intervention est une caméra **D-Link DCS-8525LH**.
 Voici à quoi elle ressemble :
-![Ma caméra D-Link](camera_modèle.png)
+<img src="camera_modèle.png" width="300" alt="Ma caméra D-Link">
 
 ### Caractéristiques principales :
 * **Résolution :** Full HD (1080p).
@@ -41,6 +41,8 @@ Voici à quoi elle ressemble :
 * Un réseau Wi-Fi fonctionnel.
 * Un smartphone avec l'application **mydlink** installée.
 * Un compte utilisateur mydlink créé et configuré.
+* 
+* Interface de connexion une fois compte mydlink configuré.
 
 ### Étapes de mise en service
 1. **Installation physique :** Choix de l'emplacement et branchement de l'alimentation électrique.
