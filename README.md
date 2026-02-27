@@ -56,14 +56,18 @@ Dans le cadre de ce TP, nous allons détailler les étapes d'installation et de 
 
 ---
 
-## 📱 Interface et Fonctionnalités
+## 📱 Interface et Fonctionnalités (Le Menu)
 
-L'interface (testée en **Mode Sombre**) centralise la gestion de la "Clara cam" :
-* **Flux Direct :** Visualisation temps réel et joysticks de contrôle Pan & Tilt.
-* **Options visibles :** Scènes, Automatisation (selon abonnement), Calendrier et Paramètres.
+Voici le panneau latéral de l'application **mydlink** qui permet de gérer la "Clara cam". Chaque option a un rôle précis :
 
-![Écran d'accueil mydlink](./IMAGE_ECRAN_ACCUEIL.jpg)
-*Photo 3 : Interface de l'application avec les options de gestion et le flux vidéo.*
+<img src="13101.jpg" width="300" alt="Panneau latéral mydlink">
+
+* **Scène :** Permet de créer des profils (Maison, Absent, Sommeil) pour changer le comportement de la caméra en un clic.
+* **Automatisation :** C'est ici qu'on règle les déclenchements automatiques (ex: enregistrer si un mouvement est détecté) *(uniquement premimum)*.
+* **Calendrier :** Pour revoir les événements passés en choisissant une date précise.
+* **Paramètres :** Accès aux réglages techniques (nom du périphérique, fuseau horaire, Wi-Fi).
+* **Événement et vidéo :** Historique de toutes les alertes reçues.
+* **Enregistrement sur le cloud :** Gestion du stockage des vidéos en ligne.
 
 ---
 
