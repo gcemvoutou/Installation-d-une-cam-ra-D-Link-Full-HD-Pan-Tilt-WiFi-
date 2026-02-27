@@ -18,8 +18,8 @@
 Dans le cadre de ce TP, nous allons détailler les étapes d'installation et de configuration de l'équipement. Nous réaliserons également une analyse comparative des modes de connexion (Wi-Fi et Ethernet) afin d'identifier leurs limites techniques respectives en termes de stabilité et de sécurité.
 
 <img src="camera_modèle.png" width="400">
-*Photo 1 : Modèle D-Link DCS-8525LH sélectionné pour l'installation.*
-
+> [!NOTE]
+> **Photo 1 :** Modèle D-Link DCS-8525LH sélectionné pour l'installation.
 ---
 
 ## 🛠️Contenu de la boîte : 
@@ -36,11 +36,16 @@ Dans le cadre de ce TP, nous allons détailler les étapes d'installation et de 
 
 ### 1. Installation physique
 * Choix de l'emplacement et branchement de l'alimentation.
-* **Réinitialisation (Hard Reset) :** Utilisation d'un trombone dans l'orifice **Reset** pendant 10 secondes (la LED clignote en rouge).
+* **Le Reset (Étape cruciale) :** Si la caméra a déjà été configurée sur un autre appareil, elle est bloquée. Il faut alors la réinitialiser avec un trombone en appuyant sur le bouton **Reset** à l'arrière pendant **10 secondes**, jusqu'à ce que la **LED clignote en rouge**.
 
 ### 2. Configuration logicielle
-* Scan du **QR Code** via l'application mydlink.
-* Configuration de la liaison réseau (Wi-Fi pour ce TP).
+1. **Scan du QR Code boîte :** On scanne le code sur le boîtier pour être redirigé vers le téléchargement de l'appli **mydlink**.
+2. **Création du compte :** On crée son profil utilisateur (indispensable pour accéder à la caméra à distance).
+
+<img src="interface_mydlink.png" width="400">
+
+3. **Connexion de la caméra :** On lance l'ajout, on scanne le QR Code sous l'appareil et on choisit la connexion **Ethernet**.
+4. **Finalisation :** On termine en donnant un petit nom à la caméra (ex: "Clara cam").
 
 ---
 
@@ -60,7 +65,7 @@ Dans le cadre de ce TP, nous allons détailler les étapes d'installation et de 
 
 Voici le panneau latéral de l'application **mydlink** qui permet de gérer la "Clara cam". Chaque option a un rôle précis :
 
-<img src="13101.jpg" width="300" alt="Panneau latéral mydlink">
+<img src="menu_latterale.jpg" width="300" alt="Panneau latéral mydlink">
 
 * **Scène :** Permet de créer des profils (Maison, Absent, Sommeil) pour changer le comportement de la caméra en un clic.
 * **Automatisation :** C'est ici qu'on règle les déclenchements automatiques (ex: enregistrer si un mouvement est détecté) *(uniquement premimum)*.
