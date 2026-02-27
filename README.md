@@ -12,18 +12,23 @@
 ---
 
 ## 📋 Présentation du Projet
-**Objectif :** : Mme JOUVET souhaite installer une caméra D-Link DCS-8525LH pour sa mobilité (Pan & Tilt) et sa simplicité de déploiement. Dans le cadre de ce TP, nous allons montrer comment installer et configurer la caméra de Mme JOUVET. Nous analyserons les différents modes de connexion (Wi-Fi et Ethernet) ainsi que leurs limites techniques respectives.
+**Objectif :** Mme JOUVET souhaite mettre en place une solution de vidéosurveillance simple et performante. Nous lui avons recommandé le modèle D-Link DCS-8525LH pour sa mobilité et sa gestion intuitive via smartphone.
+<br>
+<br>
+Dans le cadre de ce TP, nous allons détailler les étapes d'installation et de configuration de l'équipement. Nous réaliserons également une analyse comparative des modes de connexion (Wi-Fi et Ethernet) afin d'identifier leurs limites techniques respectives en termes de stabilité et de sécurité.
 
-![Modèle de la caméra](./IMAGE_MODELE_CAMERA.jpg)
+<img src="camera_modèle.png" width="400">
 *Photo 1 : Modèle D-Link DCS-8525LH sélectionné pour l'installation.*
 
 ---
 
-## 🛠️ Matériel et Prérequis
-* **Résolution :** Full HD 1080p.
-* **Mobilité :** Motorisée Pan & Tilt (Panoramique et Inclinaison).
-* **Connectivité :** Wi-Fi et Ethernet (RJ45).
-* **Application :** Smartphone avec l'application **mydlink** et compte configuré.
+## 🛠️Contenu de la boîte : 
+* **Caméra :** Full HD 1080p.
+* **Câble réseau:**  Ethernet (RJ45).
+* **Bloc d’alimentation** 
+* **Support de fixation**
+* **Chevilles**
+* **Guide rapide + carte avec QR code.**
 
 ---
 
@@ -46,7 +51,7 @@
 | **Ethernet** | ✅ Ultra-stable, latence minimale, haute sécurité. | ❌ Nécessite un câble, moins flexible. |
 | **Wi-Fi** | ✅ Installation rapide, placement libre. | ❌ Sensible aux interférences. |
 
-![Branchement Ethernet](./IMAGE_BRANCHEMENT_ETHERNET.jpg)
+<img src="camera_modèle.png" width="400">
 *Photo 2 : Détail du branchement combiné (Alimentation secteur + Câble Ethernet RJ45).*
 
 ---
