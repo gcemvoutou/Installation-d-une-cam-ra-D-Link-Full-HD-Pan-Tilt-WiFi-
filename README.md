@@ -19,7 +19,7 @@ Dans le cadre de ce TP, nous allons détailler les étapes d'installation et de 
 
 <img src="camera_modèle.png" width="400">
 > [!NOTE]
-*La console KVM Dexlan déployée dans la baie informatique de la mairie, permettant l'accès direct aux serveurs.*
+> La console KVM Dexlan déployée dans la baie informatique de la mairie, permettant l'accès direct aux serveurs.
 ---
 
 ## 🛠️Contenu de la boîte : 
